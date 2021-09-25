@@ -41,7 +41,6 @@ public class Login {
 		driver.findElementByClassName("decorativeSubmit").click();
 		driver.close();
 		//completed
-		//end
 	}
 
 
